@@ -4,8 +4,11 @@
  */
 // (function (global) {
 //   System.config({
+//     paths: {
+//         // paths serve as alias
+//         'npm:': 'node_modules/'
+//     },
 //     packages: {
-//       // add packages here
 //     }
 //   });
 // })(this);
