@@ -1,4 +1,4 @@
-/**
+/**MarkedStatic
  * System configuration for Angular samples
  * Adjust as necessary for your application needs.
  */
@@ -25,7 +25,7 @@
 
       // other libraries
       'rxjs':                      'npm:rxjs',
-      'marked':                    'npm:marked/marked.min.js',
+      'marked':                    'npm:marked/lib/marked.js',
       'angular-in-memory-web-api': 'npm:angular-in-memory-web-api/bundles/in-memory-web-api.umd.js'
     },
     // packages tells the System loader how to load when no filename and/or no extension

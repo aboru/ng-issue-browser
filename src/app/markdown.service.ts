@@ -4,7 +4,7 @@ import * as marked    from 'marked';
 @Injectable()
 export class MarkdownService {
 
-    private parser: MarkedStatic;
+    private parser: any;
 
     constructor()
     {
